@@ -1,22 +1,29 @@
 {
     "Id": "",
-    "Version": "v0.13.11",
+    "Version": "v0.13.28",
     "Type": 0,
     "AccessRight": 0,
     "DownloadUrl": "",
     "InstallPath": "Assets/QFramework/Framework/",
     "IncludeFileOrFolders": [
-        "Assets/QFramework/Framework/Examples",
+        "Assets/QFramework/Framework/Architecture",
+        "Assets/QFramework/Framework/link.xml",
         "Assets/QFramework/Framework/PackageVersion.json",
-        "Assets/QFramework/Framework/Plugins",
-        "Assets/QFramework/Framework/README.md"
+        "Assets/QFramework/Framework/Toolkits/ActionKit",
+        "Assets/QFramework/Framework/Toolkits/AI.zip",
+        "Assets/QFramework/Framework/Toolkits/AudioKit",
+        "Assets/QFramework/Framework/Toolkits/Core",
+        "Assets/QFramework/Framework/Toolkits/ResKit",
+        "Assets/QFramework/Framework/Toolkits/StaticExtensions",
+        "Assets/QFramework/Framework/Toolkits/Trigger2DCheck",
+        "Assets/QFramework/Framework/Toolkits/UIKit"
     ],
     "DocUrl": "https://lianxiegame.com",
     "Readme": {
-        "version": "v0.13.11",
-        "content": "修复在 Prefab Stage 中无法快捷键 Add Bind 功能",
+        "version": "v0.13.28",
+        "content": "打包报错问题修复(h)",
         "author": "liangxie",
-        "date": "2021 年 08 月 14 日 22:40",
+        "date": "2021 年 10 月 19 日 11:38",
         "PackageId": ""
     }
 }
